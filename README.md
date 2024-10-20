@@ -55,7 +55,7 @@ The Artifact Processor is a Python script designed to process artifact files and
 Run the script from the command line with the following syntax:
 
 ```
-python artifact_processor.py -i <input_directory> -o <output_directory> [-m <model_name>]
+python main.py -i <input_directory> -o <output_directory> [-m <model_name>]
 ```
 
 Arguments:
@@ -65,7 +65,7 @@ Arguments:
 
 Example:
 ```
-python artifact_processor.py -i ./artifacts -o ./output -m gpt-4-turbo-preview
+python main.py -i ./artifacts -o ./output -m gpt-4-turbo-preview
 ```
 
 ## How It Works
