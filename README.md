@@ -17,7 +17,7 @@
 
 The Artifact Processor is a Python script designed to process artifact files and generate corresponding output files. It uses OpenAI's language models to analyze the content of artifact files and create or update files based on the analysis. This tool is particularly useful for automating the generation of code, configuration files, or other text-based assets from high-level descriptions or specifications.
 
->> This project was primarily intended to work with ZIP files downloaded using https://github.com/ashwanthkumar/claude-artifacts-downloader
+> This project was primarily intended to work with ZIP files downloaded using https://github.com/ashwanthkumar/claude-artifacts-downloader
 
 ## Features
 
